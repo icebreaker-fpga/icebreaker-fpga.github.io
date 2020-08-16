@@ -1,7 +1,5 @@
-Welcome to the iCEBreaker Open-Source FPGA GitHub website.
+Welcome to the [iCEBreaker Open-Source FPGA](github.com/icebreaker-fpga/icebreaker) website.
 
-This is just a placeholder to allow the repositories to have pages.
-
-The official website is at [icebreaker-fpga.com](https://icebreaker-fpga.com)
+Documentation is forthcoming, contributions are welcome on [GitHub](github.com/icebreaker-fpga/icebreaker-fpga.github.io).
 
 Cheers!
