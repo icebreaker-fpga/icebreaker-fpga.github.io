@@ -1,13 +1,11 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /
 ---
 
-# iCEBreaker FPGA
-
-Welcome to the [iCEBreaker Open-Source FPGA](https://github.com/icebreaker-fpga) homepage.
+Welcome to the iCEBreaker FPGA homepage.
 
 Documentation can be found [here](https://docs.icebreaker-fpga.org).
 
-Cheers!
+iCEBreaker is an open-source project brought to you by [1BitSquared](https://1bitsquared.com).
