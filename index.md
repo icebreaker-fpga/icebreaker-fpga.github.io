@@ -1,5 +1,12 @@
-Welcome to the [iCEBreaker Open-Source FPGA](https://github.com/icebreaker-fpga/icebreaker) website.
+---
+layout: default
+title: Home
+description: "iCEBreaker FPGA"
+permalink: /
+---
 
-Documentation is forthcoming, contributions are welcome on [GitHub](https://github.com/icebreaker-fpga/icebreaker-fpga.github.io).
+Welcome to the [iCEBreaker Open-Source FPGA](https://github.com/icebreaker-fpga) homepage.
+
+Documentation can be found [here](https://docs.icebreaker-fpga.org).
 
 Cheers!
