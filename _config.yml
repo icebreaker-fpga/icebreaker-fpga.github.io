@@ -7,4 +7,4 @@ title: iCEBreaker FPGA
 description: iCEBreaker FPGA Project Homepage
 baseurl:
 url: "https://icebreaker-fpga.org"
-remote_theme: CloudCannon/hydra-jekyll-template
+theme: minimal
