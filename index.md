@@ -1,9 +1,10 @@
 ---
-layout: default
+layout: page
 title: Home
-description: "iCEBreaker FPGA"
 permalink: /
 ---
+
+# iCEBreaker FPGA
 
 Welcome to the [iCEBreaker Open-Source FPGA](https://github.com/icebreaker-fpga) homepage.
 
